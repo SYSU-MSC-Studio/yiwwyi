@@ -3,7 +3,7 @@
 ## Introduction
 噫呜呜噫，一个智慧型多媒体捕捉系统。
 
-又名 YIWWYI Is a Website Without Youtube Integration?  
+又名 YIWWYI Is a Website Without Youtube Integration  
 又名 Yet Incomplete WebWork YIWWYI Interface
 
 ## Schedule
